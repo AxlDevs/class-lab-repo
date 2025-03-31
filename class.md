@@ -1,6 +1,6 @@
 ## Class Information
-- Name: [Your Name Here]  
-- Certification: [Your Certification Name Here]  
+- Name: Axl Lopez 
+- Certification: Meta iOS Developer  
 
 ## Instructions
 Please replace the placeholders with your details:
